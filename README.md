@@ -7,6 +7,9 @@ Use this setup to guide Copilot from **spec → design → tasks → tested code
 📝 Read the full Medium article:  
 **[Beyond Autocomplete: Give Copilot a Memory and a Brain](https://medium.com/@mrBallistic/how-to-give-github-copilot-a-photographic-memory-and-a-kiro-style-brain-3eafeafa4b85)**
 
+And the followup:
+**[From Prompt to Product](https://medium.com/@mrBallistic/from-prompt-to-product-8c1f3bd9b8e0)**
+
 ---
 
 ## 🧩 What's Inside
