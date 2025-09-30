@@ -78,9 +78,9 @@ Copilot only acts when triggered with these:
 
 ## 🧪 Want to extend it?
 
-Add /memory-bank/commands.md as a cheatsheet
-Use GitHub Actions to validate memory structure on PRs
-Build an onboarding doc for new team members
+* Add /memory-bank/commands.md as a cheatsheet
+* Use GitHub Actions to validate memory structure on PRs
+* Build an onboarding doc for new team members
 
 ## 📖 License
 
