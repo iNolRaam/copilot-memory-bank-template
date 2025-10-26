@@ -78,6 +78,7 @@ PHASE 2 – TASK_BREAKDOWN
       - Description
       - Acceptance criteria
       - Estimated effort (S/M/L)
+      - Status (Completed, Not started)
       - Files/modules affected
   • Wait for `/approve tasks`
 
