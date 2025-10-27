@@ -39,6 +39,7 @@ You MUST respect all slash commands. Do nothing until a relevant command is give
       - activeContext.md
       - progress.md
       - copilot-rules.md
+      - tasks.md
 
 == MEMORY BANK FILES ==
 Global context (always read before any task):
